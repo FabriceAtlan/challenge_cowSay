@@ -33,6 +33,17 @@ Dans ce défi, tu devras installer un paquet appelé **CowSay**. C'est un paquet
 ## Explication
 
 1. Clonez le dépôt.
-2. Copiez le fichier `.env.sample`.
-3. Renommez la copie en `.env`.
-4. Remplacez les valeurs par votre nom, votre ville et le votre language.
+2. Installez les dépendances avec la commande suivante :
+
+```javascript
+npm install
+```
+
+3. Copiez le fichier `.env.sample`.
+4. Renommez la copie en `.env`.
+5. Remplacez les valeurs par votre nom, votre ville et votre language.
+6. Lancez le programme dans un terminale avec la commande suivante :
+
+```javascript
+node index.js
+```
